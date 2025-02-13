@@ -1,0 +1,8 @@
+[package]
+name = "Proyecto4"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.15.2"
+rand = "0.8.5"
